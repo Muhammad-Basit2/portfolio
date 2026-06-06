@@ -24,8 +24,7 @@ const Work = () => {
                 <p>{project.description}</p>
               </div>
               <div
-                className="border rounded-full border-black w-9
-                 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] group-hover:bg-lime-300 transition"
+                className="border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] group-hover:bg-lime-300 transition"
               >
                 <Image src={assets.send_icon} alt="send icon" className="w-5" />
               </div>
