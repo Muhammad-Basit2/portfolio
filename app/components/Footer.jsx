@@ -9,7 +9,7 @@ const Footer = () => {
         <Image src={assets.logo} alt="" className="w-36 mx-auto mb-2" />
         <div className="w-max flex items-center gap-2 mx-auto">
           <Image src={assets.mail_icon} alt="" className="w-6" />
-          muhammadbasit@gmail.com
+          muhammadbasit9274@gmail.com
         </div>
       </div>
 
@@ -17,17 +17,17 @@ const Footer = () => {
         <p>©️ 2026 Basit. All right reserved</p>
         <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0">
           <li>
-            <a target="blank" href="">
+            <a target="blank" href="https://github.com/Muhammad-Basit2">
               GitHub
             </a>
           </li>
           <li>
-            <a gtarget="blank" href="">
+            <a gtarget="blank" href="https://www.linkedin.com/in/muhammad-basit-664247404?utm_source=share_via&utm_content=profile&utm_medium=member_android">
               LinkedIn
             </a>
           </li>
           <li>
-            <a target="blank" href="">
+            <a target="blank" href="https://www.instagram.com/xmart.basit?igsh=cHMyeGhyMjdxNm10">
               Instagram
             </a>
           </li>
