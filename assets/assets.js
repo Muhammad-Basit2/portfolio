@@ -81,21 +81,25 @@ export const workData = [
         title: 'Frontend project',
         description: 'Web Design',
         bgImage: '/work-1.png',
+        link: 'https://muhammad-basit2.github.io/E-store/',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Wheather app',
+        description: 'Web App',
         bgImage: '/work-2.png',
+        link: '',
     },
     {
-        title: 'Photography site',
+        title: 'Currency-Converter',
         description: 'Web Design',
         bgImage: '/work-3.png',
+        link: 'https://muhammad-basit2.github.io/Currency-Converter/',
     },
     {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
+        link:'https://muhammad-basit2.github.io/fist-reponsive-web/',
     },
 ]
 
