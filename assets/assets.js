@@ -35,6 +35,9 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import react_icon from './react-icon.png';
+import nextjs_icon from './nextjs-icon.png';
+import tailwindcss_icon from './tailwindcss-icon.png';
 
 export const assets = {
     user_image,
@@ -73,7 +76,10 @@ export const assets = {
     right_arrow,
     send_icon,
     right_arrow_bold,
-    right_arrow_bold_dark
+    right_arrow_bold_dark,
+    nextjs_icon,
+    tailwindcss_icon,
+    react_icon
 };
 
 export const workData = [
@@ -84,10 +90,10 @@ export const workData = [
         link: 'https://muhammad-basit2.github.io/E-store/',
     },
     {
-        title: 'Wheather app',
+        title: 'Movie App',
         description: 'Web App',
         bgImage: '/work-2.png',
-        link: '',
+        link: 'https://muhammad-basit2.github.io/Movie-website/',
     },
     {
         title: 'Currency-Converter',
@@ -117,5 +123,5 @@ export const infoList = [
 ];
 
 export const toolsData = [
-    assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git
+    assets.vscode, assets.nextjs_icon, assets.tailwindcss_icon, assets.react_icon, assets.git
 ];
