@@ -105,7 +105,7 @@ export const workData = [
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
-        link:'https://muhammad-basit2.github.io/fist-reponsive-web/',
+        link:'https://muhammad-basit2.github.io/Weather-App/',
     },
 ]
 

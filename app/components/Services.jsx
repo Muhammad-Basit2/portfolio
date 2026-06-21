@@ -27,7 +27,7 @@ const Services = () => {
         {serviceData.map(({ icon, title, description, link }, index) => (
           <div
             key={title}
-            className="border border-gray-400 dark:border-gray-600 rounded-lg px-8 py-12 cursor-pointer hover:bg-gray-200 hover:scale-105 focus:outline dark:hover:bg-gray-800 hover:shadow-md transition-all duration-300 bg-white dark:bg-gray-900 "
+            className="bg-white dark:bg-gray-900 border border-gray-400 dark:border-gray-600 rounded-lg px-8 py-12 cursor-pointer transition-all duration-300 hover:bg-gray-200 dark:hover:bg-gray-800 hover:scale-105 hover:shadow-md focus:outline"
           >
             <Image src={icon} alt="" className="w-10 dark:invert" />
             <h3 className="text-lg my-4 text-gray-700 dark:text-gray-200">
