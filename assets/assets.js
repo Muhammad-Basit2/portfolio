@@ -102,8 +102,8 @@ export const workData = [
         link: 'https://muhammad-basit2.github.io/Currency-Converter/',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Weather-App',
+        description: 'Web-App',
         bgImage: '/work-4.png',
         link:'https://muhammad-basit2.github.io/Weather-App/',
     },
